@@ -2,7 +2,7 @@
 With the growing emphasis on practical skills, more companies are looking at portfolios alongside traditional resumes when evaluating engineers in mechanical, electrical, and data science. A well-crafted portfolio can showcase your projects, technical abilities, and problem-solving approach in ways that resumes alone cannot. Check out the **demo [here](https://leea12.github.io/)**.
 
 ## Upgrade Option: Premium AI-Powered Portfolio Builder (No coding required)
-Imagine a simpler, more powerful way to showcase your work. LowInertia.com offers an AI-powered Portfolio generation that lets you create a stunning, professional portfolio effortlessly. You won't need to write any code or know anything about GitHub to showcase your amazing work.
+Imagine a simpler, more powerful way to showcase your work. LowInertia.com offers an AI-powered Portfolio generation that lets you create a stunning, professional portfolio effortlessly. You won't need to write any code or know anything about GitHub to showcase your amazing work. **[demo](https://lowinertia.com/stanley)**
 
 - Instant onbording with smart AI-powered resume/CV import
 - User-friendly dashboard to customize your page and publish projects. 
