@@ -18,7 +18,6 @@ Visit **[lowinertia.com](https://lowinertia.com/)** to learn more
 
 
 
-See the instruction below.
 
 
 # free-to-engineer-portflio-template instructions
