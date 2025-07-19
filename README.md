@@ -1,21 +1,35 @@
 # Free To Engineer Portfolio Template 
 With the growing emphasis on practical skills, more companies are looking at portfolios alongside traditional resumes when evaluating engineers in mechanical, electrical, and data science. A well-crafted portfolio can showcase your projects, technical abilities, and problem-solving approach in ways that resumes alone cannot. Check out the **demo [here](https://leea12.github.io/)**.
 
-![image](https://github.com/user-attachments/assets/f80d6222-408c-4a8f-960a-fb13a1a0cd12)
+See the instruction below.
 
 
-## If you are currently looking for a job
-Visit **[lowinertia.com](https://lowinertia.com/)** I am adding contents that I think would be helpful for those who either looking for preparing for internship or entry position application.
+## Looking for User-Frienly Premium Portfolio? 
+Imagine a simpler, more powerful way to showcase your work. LowInertia.com offers an AI-powered Portfolio generation that lets you create a stunning, professional portfolio effortlessly. You won't need to write any code or know anything about GitHub to showcase your amazing work.
+
+Why make the switch to LowInertia.com?
+- Instant onbording with smart AI-powered resume/CV import
+- User-friendly dashboard to customize your page and publish projects. 
+- Access a rich set of tools tailored to help you showcase your projects 
+
+Visit **[lowinertia.com](https://lowinertia.com/)** to learn more
+
+<img width="2908" height="1440" alt="Screenshot 2025-07-18 at 9 36 27 PM" src="https://github.com/user-attachments/assets/04fbd1de-7874-4513-bff5-df1bdb1c6c34" />
+<img width="2936" height="1440" alt="Screenshot 2025-07-19 at 2 55 00 AM" src="https://github.com/user-attachments/assets/ba0f3080-bc2b-4ad0-9124-ffab41aa8119" />
 
 
 
 
-## Table of Contents
+
+
+
+# free-to-engineer-portflio-template instructions
 
 ### 1. Setting Up Your Page on GitHub (5 min)
 - [Getting Started](#getting-started)
-  - [Setup GitHub Account](#setup-github-account)
-  - [Use the Template](#Use-the-template)
+- [Setup GitHub Account](#setup-github-account)
+- [Use the template](#Use-the-template)
+
 
 ### 2. Personalizing Your Portfolio (10+ min)
 - [Set Up Your Profile](#set-up-your-profile)
@@ -49,8 +63,8 @@ Visit **[lowinertia.com](https://lowinertia.com/)** I am adding contents that I 
 1. **Visit GitHub**: If you don't have an account, go to [GitHub](https://github.com/) and sign up.
 2. **Create an Account**: Fill out the registration form with your preferred username, email, and password.
 3. **Verify Your Email**: Check your email to verify your account.
-### Fork the Template
 
+### Use the template
 1. **Navigate to FreeToEngineer Repository**: Go to the repository where this portfolio template is [hosted](https://github.com/leea12/freeToEngineer)
 2. **Use the template**: Click the "Use this template" button at the top right of the page. Then, choose create a new repository. This creates a copy under your GitHub account. If you can also click on the "star", it will help the template to get visibility to many others!
 
