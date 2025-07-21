@@ -1,8 +1,12 @@
 # Free To Engineer Portfolio Template 
-With the growing emphasis on practical skills, more companies are looking at portfolios alongside traditional resumes when evaluating engineers in mechanical, electrical, and data science. A well-crafted portfolio can showcase your projects, technical abilities, and problem-solving approach in ways that resumes alone cannot. Check out the **demo [here](https://leea12.github.io/)**.
+With the growing emphasis on practical skills, a standout portfolio is becoming essential in addition to resume in feilds like  mechanical engineering, electrical engineering, and data science. A well-crafted portfolio can showcase your projects, technical abilities, and problem-solving approach in ways that resumes alone cannot. Check out the **demo [here](https://leea12.github.io/)**.
+
+## Free Option: free-to-engineer
+free-to-engineer portfolio template is provided for free by lowinertia. The instructions to setup and personalize your page is found below.
+
 
 ## Upgrade Option: Premium AI-Powered Portfolio Builder at lowinertia.com
-Building a portfolio on GitHub can take hours of setup and tweaking. The AI-powered Portfolio Builder at lowinertia.com simplifies the process, letting you create a clean, modern portfolio in minutes—no coding or GitHub know-how required. Focus on showcasing your work with a fresh, professional look. Check out the Demo
+Building a portfolio on GitHub can take hours of setup and tweaking and limited in functionality and ease of use. The AI-powered Portfolio Builder at lowinertia.com simplifies the process, letting you create a clean, modern portfolio in minutes—no coding or GitHub know-how required. Focus on showcasing your work with a fresh, professional look. Check out the **[Demo Premium Portfolio](https://lowinertia.com/portfolio/stanley)**
 
 - Save Time: Instantly import your resume/CV with AI to kickstart your portfolio.
 - Modern Style: Customize your page with an easy-to-use dashboard for a polished, up-to-date design.
@@ -10,9 +14,12 @@ Building a portfolio on GitHub can take hours of setup and tweaking. The AI-powe
 
 Visit **[lowinertia.com](https://lowinertia.com/)** to learn more
 
-<img width="2908" height="1440" alt="Screenshot 2025-07-18 at 9 36 27 PM" src="https://github.com/user-attachments/assets/04fbd1de-7874-4513-bff5-df1bdb1c6c34" />
-<img width="2936" height="1440" alt="Screenshot 2025-07-19 at 2 55 00 AM" src="https://github.com/user-attachments/assets/ba0f3080-bc2b-4ad0-9124-ffab41aa8119" />
-
+<a href="https://lowinertia.com">
+  <img width="1920" height="948" alt="AI-Powered Engineering Portfolio Builder" src="https://github.com/user-attachments/assets/4417d7f4-9dfe-4572-bafa-e2e72e6ed7bb" />
+</a>
+<a href="https://lowinertia.com/portfolio/stanley">
+  <img width="2910" height="1440" alt="LowInertia Portfolio Demo Showcase" src="https://github.com/user-attachments/assets/5eb59097-8743-4ae3-98f0-dfc49ef473b9" />
+</a>
 
 
 
