@@ -21,6 +21,10 @@ To make the onboarding and managing projects easy, LowInertia developed an AI-po
 Visit <a href="https://lowinertia.com/" target="_blank"><strong>lowinertia.com</strong></a> to get started
 
 <a href="https://lowinertia.com">
+<img width="2908" height="1438" alt="AI-powwered Resume processing for portfolio setup" src="https://github.com/user-attachments/assets/c213c32c-2dc6-47bf-96b8-2852a9f51658" />
+</a>
+
+<a href="https://lowinertia.com">
   <img width="1920" height="948" alt="AI-Powered Engineering Portfolio Builder" src="https://github.com/user-attachments/assets/4417d7f4-9dfe-4572-bafa-e2e72e6ed7bb" />
 </a>
 <a href="https://lowinertia.com/portfolio/stanley">
