@@ -1,5 +1,5 @@
 # Portfolio For Current and Aspiring STEM Professionals
-How do you stand out and get hired in today's market? A strong portfolio demonstrates your technical skills and problem-solving in ways a resume just can't, giving you a clear advantage in your job search. Here, Lowinertia is giving you all the tool you need to get started. 
+How do you stand out and get hired in today's market? A strong portfolio demonstrates your technical skills and problem-solving in ways a resume just can't, giving you a clear advantage in your job search. Here, Lowinertia is prociding you all the tools you need to get started!
 
 - If you're comfortable with GitHub and website building (or want to learn), opt for the free version, but keep in mind it will take more time.
 - Want a modernized, premium portfolio generated in minutes? choose the easy premium option and focus on what you do best.
