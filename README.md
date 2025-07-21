@@ -12,7 +12,7 @@ Follow along the instruction below to setup and personalize your page.
 
 
 ## Easy Option: Premium AI-Powered Portfolio Builder at lowinertia.com ($3 / month)
-To make the onboarding and managing projects easy, LowInertia developed an AI-powered Portfolio Builder to simplify the process. Just upload your resume/cv to start and get a modernized, professional looking portfolio. This is what you can expect with <a href="https://lowinertia.com/portfolio/stanley" target="_blank">the premium Portfolio</a>
+To make the onboarding and managing projects easy, LowInertia developed an AI-powered Portfolio Builder to simplify the process. Just upload your resume/cv to start and get a modernized, professional looking portfolio. This is what you can expect with the <a href="https://lowinertia.com/portfolio/stanley" target="_blank">Premium Portfolio</a>
 
 - **2-Minute Onboarding with 3 Simple Steps**: Create your account - upload your resume - upload your profile image , our AI will put your page together. 
 - **Effortless Customization, Flawless Design**: Easily personalize your portfolio with your own text, images, and videos using our intuitive dashboard. You focus on your content, and we'll ensure a modern, mobile-friendly design that looks great on any device.
