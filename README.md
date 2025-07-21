@@ -5,7 +5,7 @@ How do you stand out and get hired in today's market? A strong portfolio demonst
 - Want a modernized, premium portfolio generated in minutes? choose the easy premium option and focus on what you do best.
 
 ## Free Option: free-to-engineer template hosted on Github
-Check out the **demo [here](https://leea12.github.io/)**.
+Check out the **demo [here](https://lowinertia.github.io/)**.
 Follow along the instruction below to setup and personalize your page. 
 
 **NOTE:** If you are familiar with Jekyll and Github workflows, the initial setup would take about 30 minutes. If you are not familiar with Github and config and markdown files, this could be challenging and may take more than an hour.
