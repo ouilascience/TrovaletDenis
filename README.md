@@ -1,16 +1,22 @@
-# Free To Engineer Portfolio Template 
-With the growing emphasis on practical skills, a standout portfolio is becoming essential in addition to resume in feilds like  mechanical engineering, electrical engineering, and data science. A well-crafted portfolio can showcase your projects, technical abilities, and problem-solving approach in ways that resumes alone cannot. Check out the **demo [here](https://leea12.github.io/)**.
+# Portfolio For Current and Aspiring STEM Professionals
+How do you stand out and get hired in today's market? A strong portfolio demonstrates your technical skills and problem-solving in ways a resume just can't, giving you a clear advantage in your job search. Here, Lowinertia is giving you all the tool you need to get started. 
 
-## Free Option: free-to-engineer
-free-to-engineer portfolio template is provided for free by lowinertia. The instructions to setup and personalize your page is found below.
+- If you're comfortable with GitHub and website building (or want to learn), opt for the free version, but keep in mind it will take more time.
+- Want a modernized, premium portfolio generated in minutes? choose the easy premium option and focus on what you do best.
+
+## Free Option: free-to-engineer template hosted on Github
+Check out the **demo [here](https://leea12.github.io/)**.
+Follow along the instruction below to setup and personalize your page. 
+
+**NOTE:** If you are familiar with Jekyll and Github workflows, the initial setup would take about 30 minutes. If you are not familiar with Github and config and markdown files, this could be challenging and may take more than an hour.
 
 
-## Upgrade Option: Premium AI-Powered Portfolio Builder at lowinertia.com
-Building a portfolio on GitHub can take hours of setup and tweaking and limited in functionality and ease of use. The AI-powered Portfolio Builder at lowinertia.com simplifies the process, letting you create a clean, modern portfolio in minutes—no coding or GitHub know-how required. Focus on showcasing your work with a fresh, professional look. Check out the **[Demo Premium Portfolio](https://lowinertia.com/portfolio/stanley)**
+## Easy Option: Premium AI-Powered Portfolio Builder at lowinertia.com ($3 / month)
+To make the onboarding and managing projects easy, LowInertia developed an AI-powered Portfolio Builder to simplify the process. Just upload your resume/cv to start and get a modernized, professional looking portfolio. Check out the **[Demo Premium Portfolio](https://lowinertia.com/portfolio/stanley)**
 
-- Save Time: Instantly import your resume/CV with AI to kickstart your portfolio.
-- Modern Style: Customize your page with an easy-to-use dashboard for a polished, up-to-date design.
-- Project-Friendly Tools: Effortlessly highlight your work with features built to make your projects pop.
+- **2-Minute Onboarding with 3 Simple Steps**: Create your account - upload your resume - upload your profile image , our AI will put your page together. 
+- **Effortless Customization, Flawless Design**: Easily personalize your portfolio with your own text, images, and videos using our intuitive dashboard. You focus on your content, and we'll ensure a modern, mobile-friendly design that looks great on any device.
+- **All the Tools for Your Projects**: Showcase your work exactly how you want. Our premium rich text editor gives you everything you need to highlight projects, including the ability to seamlessly add images, videos, tables, code blocks, and more.
 
 Visit **[lowinertia.com](https://lowinertia.com/)** to learn more
 
