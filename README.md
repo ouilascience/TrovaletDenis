@@ -18,7 +18,7 @@ To make the onboarding and managing projects easy, LowInertia developed an AI-po
 - **Effortless Customization, Flawless Design**: Easily personalize your portfolio with your own text, images, and videos using our intuitive dashboard. You focus on your content, and we'll ensure a modern, mobile-friendly design that looks great on any device.
 - **All the Tools for Your Projects**: Showcase your work exactly how you want. Our premium rich text editor gives you everything you need to highlight projects, including the ability to seamlessly add images, videos, tables, code blocks, and more.
 
-Visit <a href="https://lowinertia.com/" target="_blank">lowinertia.com</a> to get started
+Visit <a href="https://lowinertia.com/" target="_blank"><strong>lowinertia.com</strong></a> to get started
 
 <a href="https://lowinertia.com">
   <img width="1920" height="948" alt="AI-Powered Engineering Portfolio Builder" src="https://github.com/user-attachments/assets/4417d7f4-9dfe-4572-bafa-e2e72e6ed7bb" />
