@@ -4,14 +4,14 @@ How do you stand out and get hired in today's market? A strong portfolio demonst
 - If you're comfortable with GitHub and website building (or want to learn), opt for the free version, but keep in mind it will take more time.
 - Want a modernized, premium portfolio generated in minutes? choose the easy premium option and focus on what you do best.
 
-## Free Option: free-to-engineer template hosted on Github
+## 1. Free Option: free-to-engineer template hosted on Github
 Check out <a href="https://lowinertia.github.io/" target="_blank">the free portfolio demo here</a> 
 Follow along the instruction below to setup and personalize your page. 
 
 **NOTE:** If you are familiar with Jekyll and Github workflows, the initial setup would take about 30 minutes. If you are not familiar with Github and config and markdown files, this could be challenging and may take more than an hour.
 
 
-## Fast/Premium Option: Premium AI-Powered Portfolio Builder at lowinertia.com ($3 / month)
+## 2. Fast/Premium Option: Premium AI-Powered Portfolio Builder at lowinertia.com ($3 / month)
 To make the onboarding and managing projects easy, LowInertia developed an AI-powered Portfolio Builder to simplify the process. Just upload your resume/cv to start and get a modernized, professional looking portfolio. This is what you can expect with the <a href="https://lowinertia.com/portfolio/stanley" target="_blank">Premium Portfolio</a>
 
 - **2-Minute Onboarding with 3 Simple Steps**: Create your account - upload your resume - upload your profile image , our AI will put your page together. 
