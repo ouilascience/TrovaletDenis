@@ -5,8 +5,7 @@ How do you stand out and get hired in today's market? A strong portfolio demonst
 - Want a modernized, premium portfolio generated in minutes? choose the easy premium option and focus on what you do best.
 
 ## 1. Free Option: free-to-engineer template hosted on Github
-Check out <a href="https://lowinertia.github.io/" target="_blank">the free portfolio demo here</a> 
-Follow along the instruction below to setup and personalize your page. 
+Check out <a href="https://lowinertia.github.io/" target="_blank">the free portfolio demo here</a>. And, follow along the instruction below to setup and personalize your page. 
 
 **NOTE:** If you are familiar with Jekyll and Github workflows, the initial setup would take about 30 minutes. If you are not familiar with Github and config and markdown files, this could be challenging and may take more than an hour.
 
@@ -19,16 +18,17 @@ To make the onboarding and managing projects easy, LowInertia developed an AI-po
 - **All the Tools for Your Projects**: Showcase your work exactly how you want. Our premium rich text editor gives you everything you need to highlight projects, including the ability to seamlessly add images, videos, tables, code blocks, and more.
 
 Visit <a href="https://lowinertia.com/" target="_blank"><strong>lowinertia.com</strong></a> to get started
-
-<a href="https://lowinertia.com">
+<a href="https://lowinertia.com/" target="_blank">
+  <img width="2910" height="1424" alt="image" src="https://github.com/user-attachments/assets/1abfd2f3-bb16-41dc-b7c0-3f78beef7264" />
+</a>
+<a href="https://lowinertia.com" target="_blank">
 <img width="2908" height="1438" alt="AI-powwered Resume processing for portfolio setup" src="https://github.com/user-attachments/assets/c213c32c-2dc6-47bf-96b8-2852a9f51658" />
 </a>
-
-<a href="https://lowinertia.com">
-  <img width="1920" height="948" alt="AI-Powered Engineering Portfolio Builder" src="https://github.com/user-attachments/assets/4417d7f4-9dfe-4572-bafa-e2e72e6ed7bb" />
-</a>
 <a href="https://lowinertia.com/portfolio/stanley">
-  <img width="2910" height="1440" alt="LowInertia Portfolio Demo Showcase" src="https://github.com/user-attachments/assets/5eb59097-8743-4ae3-98f0-dfc49ef473b9" />
+  <img width="2910" height="1440" alt="LowInertia Portfolio Demo Showcase" src="https://github.com/user-attachments/assets/9db686fa-2700-477b-9dae-3da9b70fe90f" />
+</a>
+<a href="https://lowinertia.com" target="_blank">
+  <img width="1920" height="948" alt="AI-Powered Engineering Portfolio Builder" src="https://github.com/user-attachments/assets/4417d7f4-9dfe-4572-bafa-e2e72e6ed7bb" />
 </a>
 
 
