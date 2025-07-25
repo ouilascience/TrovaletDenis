@@ -10,7 +10,7 @@ Check out <a href="https://lowinertia.github.io/" target="_blank">the free portf
 **NOTE:** If you are familiar with Jekyll and Github workflows, the initial setup would take about 30 minutes. If you are not familiar with Github and config and markdown files, this could be challenging and may take more than an hour.
 
 
-## 2. Fast/Premium Option: Premium AI-Powered Portfolio Builder at lowinertia.com ($3 / month)
+## 2. Fast/Premium Option: Premium AI-Powered Portfolio Builder at lowinertia.com 
 To make the onboarding and managing projects easy, LowInertia developed an AI-powered Portfolio Builder to simplify the process. Just upload your resume/cv to start and get a modernized, professional looking portfolio. This is what you can expect with the <a href="https://lowinertia.com/portfolio/stanley" target="_blank">Premium Portfolio</a>
 
 - **2-Minute Onboarding with 3 Simple Steps**: Create your account - upload your resume - upload your profile image , our AI will put your page together. 
