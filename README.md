@@ -10,14 +10,14 @@ Check out <a href="https://lowinertia.github.io/" target="_blank">the free portf
 **NOTE:** If you are familiar with Jekyll and Github workflows, the initial setup would take about 30 minutes. If you are not familiar with Github and config and markdown files, this could be challenging and may take more than an hour.
 
 
-## 2. Fast/Premium Option: Premium AI-Powered Portfolio Builder at lowinertia.com 
-To make the onboarding and managing projects easy, LowInertia developed an AI-powered Portfolio Builder to simplify the process. Just upload your resume/cv to start and get a modernized, professional looking portfolio. This is what you can expect with the <a href="https://lowinertia.com/portfolio/stanley" target="_blank">Premium Portfolio</a>
+## 2. Fast/Premium Option: Premium AI-Powered Portfolio Builder at <a href="https://lowinertia.com/" target="_blank"><strong>lowinertia.com</strong></a> 
+To make the onboarding and managing projects easy, LowInertia developed an AI-powered Portfolio Builder to simplify the process. Just upload your resume/cv to start and get a modernized, professional looking portfolio. Visit <a href="https://lowinertia.com/" target="_blank"><strong>lowinertia.com</strong></a> to see the demo page or get started
 
 - **2-Minute Onboarding with 3 Simple Steps**: Create your account - upload your resume - upload your profile image , our AI will put your page together. 
 - **Effortless Customization, Flawless Design**: Easily personalize your portfolio with your own text, images, and videos using our intuitive dashboard. You focus on your content, and we'll ensure a modern, mobile-friendly design that looks great on any device.
 - **All the Tools for Your Projects**: Showcase your work exactly how you want. Our premium rich text editor gives you everything you need to highlight projects, including the ability to seamlessly add images, videos, tables, code blocks, and more.
 
-Visit <a href="https://lowinertia.com/" target="_blank"><strong>lowinertia.com</strong></a> to get started
+
 <a href="https://lowinertia.com/" target="_blank">
   <img width="2910" height="1424" alt="image" src="https://github.com/user-attachments/assets/1abfd2f3-bb16-41dc-b7c0-3f78beef7264" />
 </a>
