@@ -5,17 +5,17 @@ How do you stand out and get hired in today's market? A strong portfolio demonst
 - Want a modernized, premium portfolio generated in minutes? choose the easy premium option and focus on what you do best.
 
 ## 1. Free Option: free-to-engineer template hosted on Github
-Check out <a href="https://lowinertia.github.io/" target="_blank">the free portfolio demo here</a>. And, follow along the instruction below to setup and personalize your page. 
+Check out <a href="https://lowinertia.github.io/" target="_blank">the free portfolio demo here</a>. Follow along the instruction below to setup and personalize your page. 
 
 **NOTE:** If you are familiar with Jekyll and Github workflows, the initial setup would take about 30 minutes. If you are not familiar with Github and config and markdown files, this could be challenging and may take more than an hour.
 
 
-## 2. Fast/Premium Option: Premium AI-Powered Portfolio Builder at <a href="https://lowinertia.com/" target="_blank"><strong>lowinertia.com</strong></a> 
-To make the onboarding and managing projects easy, LowInertia developed an AI-powered Portfolio Builder to simplify the process. Just upload your resume/cv to start and get a modernized, professional looking portfolio. Visit <a href="https://lowinertia.com/" target="_blank"><strong>lowinertia.com</strong></a> to see the demo page or get started
+## 2. Fast/Premium Option: Premium AI-Powered Portfolio Builder - **_free_** for Students at Participating Schools
+To make the onboarding and managing projects easy, LowInertia developed an AI-powered Portfolio Builder to simplify the process. Just upload your resume/cv to start and get a modernized, professional looking portfolio. Premium portfolio builder by lowinertia is **_free_** for students at participating schools. Visit <a href="https://lowinertia.com/" target="_blank"><strong>lowinertia.com</strong></a> to find out more.
 
 - **2-Minute Onboarding with 3 Simple Steps**: Create your account - upload your resume - upload your profile image , our AI will put your page together. 
 - **Effortless Customization, Flawless Design**: Easily personalize your portfolio with your own text, images, and videos using our intuitive dashboard. You focus on your content, and we'll ensure a modern, mobile-friendly design that looks great on any device.
-- **All the Tools for Your Projects**: Showcase your work exactly how you want. Our premium rich text editor gives you everything you need to highlight projects, including the ability to seamlessly add images, videos, tables, code blocks, and more.
+- **All the Tools for Your Projects**: Showcase your work exactly how you want. Our premium rich text editor gives you everything you need to highlight projects, including the ability to seamlessly add images, videos, tables, code samples with auto highlight, and more.
 
 
 <a href="https://lowinertia.com/" target="_blank">
@@ -30,6 +30,13 @@ To make the onboarding and managing projects easy, LowInertia developed an AI-po
 <a href="https://lowinertia.com" target="_blank">
   <img width="1920" height="948" alt="AI-Powered Engineering Portfolio Builder" src="https://github.com/user-attachments/assets/4417d7f4-9dfe-4572-bafa-e2e72e6ed7bb" />
 </a>
+<a href="https://lowinertia.com" target="_blank">
+<img width="1897" height="835" alt="image" src="https://github.com/user-attachments/assets/6df3741d-865c-4e47-bedb-be07de49cdaf" />
+</a>
+<a href="https://lowinertia.com" target="_blank">
+<img width="1892" height="832" alt="image" src="https://github.com/user-attachments/assets/ce651a60-b4ec-4360-aa83-3d80699c83f4" />
+</a>
+
 
 
 
