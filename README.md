@@ -1,17 +1,17 @@
-# Portfolio For Current and Aspiring STEM Professionals
+# Portfolio For Current and Aspiring Engineers
 How do you stand out and get hired in today's market? A strong portfolio demonstrates your technical skills and problem-solving in ways a resume just can't, giving you a clear advantage in your job search. Here, Lowinertia is prociding you all the tools you need to get started!
 
 - If you're comfortable with GitHub and website building (or want to learn), opt for the free version, but keep in mind it will take more time.
-- Want a modernized, premium portfolio generated in minutes? choose the easy premium option and focus on what you do best.
+- Want a modernized, premium portfolio generated in minutes? choose lowinertia portfolio builder and focus on what you do best.
 
-## 1. Free Option: free-to-engineer template hosted on Github
+## 1. free-to-engineer template hosted on Github
 Check out <a href="https://lowinertia.github.io/" target="_blank">the free portfolio demo here</a>. Follow along the instruction below to setup and personalize your page. 
 
 **NOTE:** If you are familiar with Jekyll and Github workflows, the initial setup would take about 30 minutes. If you are not familiar with Github and config and markdown files, this could be challenging and may take more than an hour.
 
 
-## 2. Fast/Premium Option: Premium AI-Powered Portfolio Builder - **_free_** for Students at Participating Schools
-To make the onboarding and managing projects easy, LowInertia developed an AI-powered Portfolio Builder to simplify the process. Just upload your resume/cv to start and get a modernized, professional looking portfolio. Premium portfolio builder by lowinertia is **_free_** for students at participating schools. Visit <a href="https://lowinertia.com/" target="_blank"><strong>lowinertia.com</strong></a> to find out more.
+## 2. lowinertia Option: Premium AI-Powered Portfolio Builder - **_free_** for Students at Participating Schools
+This is especially relevant for engineers in hardtech areas like mechanical, electrical, manufacturing, and robotics. To make the onboarding and managing portfolio simple, LowInertia developed an AI-powered Portfolio Builder to simplify the process. Just upload your resume/cv to start and get a modernized, professional looking portfolio. You'll have full control over text and visuals (both images and video), but the layout will be fixed. This means you can tailor your message and look without worrying about design complexity. Visit <a href="https://lowinertia.com/" target="_blank"><strong>lowinertia.com</strong></a> to find out more.
 
 - **2-Minute Onboarding with 3 Simple Steps**: Create your account - upload your resume - upload your profile image , our AI will put your page together. 
 - **Effortless Customization, Flawless Design**: Easily personalize your portfolio with your own text, images, and videos using our intuitive dashboard. You focus on your content, and we'll ensure a modern, mobile-friendly design that looks great on any device.
