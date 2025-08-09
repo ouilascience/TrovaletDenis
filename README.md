@@ -1,47 +1,7 @@
 # Portfolio For Current and Aspiring Engineers
-How do you stand out and get hired in today's market? A strong portfolio demonstrates your technical skills and problem-solving in ways a resume just can't, giving you a clear advantage in your job search. Here, Lowinertia is prociding you all the tools you need to get started!
-
-- If you're comfortable with GitHub and website building (or want to learn), opt for the free version, but keep in mind it will take more time.
-- Want a modernized, premium portfolio generated in minutes? choose lowinertia portfolio builder and focus on what you do best.
-
-## 1. free-to-engineer template hosted on Github
-Check out <a href="https://lowinertia.github.io/" target="_blank">the free portfolio demo here</a>. Follow along the instruction below to setup and personalize your page. 
+How do you stand out and get hired in today's market? A strong portfolio demonstrates your technical skills and problem-solving in ways a resume just can't, giving you a clear advantage in your job search. Here, Lowinertia is prociding you all the tools you need to get started! Check out <a href="https://lowinertia.github.io/" target="_blank">the free portfolio demo here</a>. Follow along the instruction below to setup and personalize your page. 
 
 **NOTE:** If you are familiar with Jekyll and Github workflows, the initial setup would take about 30 minutes. If you are not familiar with Github and config and markdown files, this could be challenging and may take more than an hour.
-
-
-## 2. lowinertia Option: Portfolio Builder for Engineers
-This is especially relevant for engineers in hardtech areas like mechanical, electrical, manufacturing, and robotics. To make the onboarding and managing portfolio simple, LowInertia developed an AI-powered Portfolio Builder to simplify the process. Just upload your resume/cv to start and get a modernized, professional looking portfolio. You'll have full control over text and visuals (both images and video), but the layout will be fixed. This means you can tailor your message and look without worrying about design complexity. Visit <a href="https://lowinertia.com/" target="_blank"><strong>lowinertia.com</strong></a> to find out more.
-
-- **2-Minute Onboarding with 3 Simple Steps**: Create your account - upload your resume - upload your profile image , our AI will put your page together. 
-- **Effortless Customization, Flawless Design**: Easily personalize your portfolio with your own text, images, and videos using our intuitive dashboard. You focus on your content, and we'll ensure a modern, mobile-friendly design that looks great on any device.
-- **All the Tools for Your Projects**: Showcase your work exactly how you want. Our premium rich text editor gives you everything you need to highlight projects, including the ability to seamlessly add images, videos, tables, code samples with auto highlight, and more.
-
-
-<a href="https://lowinertia.com/" target="_blank">
-  <img width="2910" height="1424" alt="image" src="https://github.com/user-attachments/assets/1abfd2f3-bb16-41dc-b7c0-3f78beef7264" />
-</a>
-<a href="https://lowinertia.com" target="_blank">
-<img width="2908" height="1438" alt="AI-powwered Resume processing for portfolio setup" src="https://github.com/user-attachments/assets/c213c32c-2dc6-47bf-96b8-2852a9f51658" />
-</a>
-<a href="https://lowinertia.com/portfolio/stanley">
-  <img width="2910" height="1440" alt="LowInertia Portfolio Demo Showcase" src="https://github.com/user-attachments/assets/9db686fa-2700-477b-9dae-3da9b70fe90f" />
-</a>
-<a href="https://lowinertia.com" target="_blank">
-  <img width="1920" height="948" alt="AI-Powered Engineering Portfolio Builder" src="https://github.com/user-attachments/assets/4417d7f4-9dfe-4572-bafa-e2e72e6ed7bb" />
-</a>
-<a href="https://lowinertia.com" target="_blank">
-<img width="1897" height="835" alt="image" src="https://github.com/user-attachments/assets/6df3741d-865c-4e47-bedb-be07de49cdaf" />
-</a>
-<a href="https://lowinertia.com" target="_blank">
-<img width="1892" height="832" alt="image" src="https://github.com/user-attachments/assets/ce651a60-b4ec-4360-aa83-3d80699c83f4" />
-</a>
-
-
-
-
-
-
 
 
 # free-to-engineer-portflio-template instructions
