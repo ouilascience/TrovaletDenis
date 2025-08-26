@@ -1,14 +1,14 @@
 # Portfolio For Current and Aspiring Engineers
 How do you stand out and get hired in today's market? A strong portfolio demonstrates your technical skills and problem-solving in ways a resume just can't, giving you a clear advantage in your job search. Here, Lowinertia is prociding you all the tools you need to get started! Check out <a href="https://lowinertia.github.io/" target="_blank">the free portfolio demo here</a>. Follow along the instruction below to setup and personalize your page. 
 
-## 2 Portfolio Options
+## There are two option:
 ### 1. Self-host on github : free-to-engineer template
 
 **NOTE:** If you are familiar with Jekyll and Github workflows, the initial setup would take about 30 minutes. If you are not familiar with Github and config and markdown files, this could be challenging and may take more than an hour.
 
 ### 2. No-code Portfolio Builder at [lowinertia.com](https://lowinertia.com)
 
-Free portfolio builder with 2 min onboarding. Vist [lowinertia.com](https://lowinertia.com) to find out more 
+Portfolio builder made for engineers with 2 min onboarding with smart resume import. Vist [lowinertia.com](https://lowinertia.com) to find out more 
 
 
 # free-to-engineer-portflio-template instructions
