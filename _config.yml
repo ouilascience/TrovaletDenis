@@ -1,9 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+# Welcome to Jekyll! (Header par défaut)
 
 # Main Page Setup
 title: Trovalet Denis - Portfolio Chimie Verte
@@ -14,18 +9,18 @@ headline: Étudiant en Master Chimie Verte - Synthèse Durable & Catalyse
 description: >-
   Étudiant en Master Chimie Verte à l'Université de Strasbourg (2025-2026). Passionné par les approches durables en synthèse organique, catalyse (homo/hétérogène) et valorisation de la biomasse. Expérience en TP de synthèse et détermination structurale. À la recherche d'un stage en R&D pour appliquer mes compétences en chimie verte à des projets industriels innovants. Maîtrise de l'anglais et du français pour des collaborations internationales.
 
-# Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg  # Ajoute ta photo ici
+# Profile Image - Remplace le placeholder !
+profile_image: ./assets/images/profile-image/avatar.jpeg  # Upload ta photo pro ici (ex. toi en labo, 300x300px JPEG)
 
-# Link your resume
-resume-url: /assets/resume/cv-chimie-verte.pdf  # Upload ton CV PDF ou lien externe
+# Resume Link
+resume-url: /assets/resume/cv-chimie-verte.pdf  # Upload ton CV PDF dans /assets/resume/
 
-# Set up external links - Ajoute tes vrais liens
+# External Links (ajoute les tiens)
 external-links:
   linkedin:  # Ex. : "trovalet-denis"
-  github:    # Ex. : "trovaletdenis"
+  github: ouilascience  # Ton username GitHub
 
-# Skills Section - Adapté à ton Master
+# Skills - Structure YAML pour grille stylée
 skills:
   - category: Chimie Fondamentale
     tools:
@@ -51,10 +46,10 @@ skills:
     - Projet Interdisciplinaire en Durabilité (PID)
     - Normes et Réglementations Chimiques
 
-# Contact Form Setup
-formspree-key:  # Colle ta clé Formspree ici
+# Contact Form
+formspree-key:  # Ajoute ta clé si tu as un formulaire
 
-# Active theme - Thème mint pour un look éco
+# Thème - Force le mint pour couleurs vertes/éco ; fallback basic si bug
 colors:
   text: "#2c3333"
   border: "#e0f2ef"
@@ -87,24 +82,3 @@ plugins:
 
 include:
   - _projects
-
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
