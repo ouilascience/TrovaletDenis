@@ -7,14 +7,14 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Trovalet Denis - Portfolio Chimie Verte
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
-description: >- # dont remove this line. this will ignore all new lines until the next section
+name: Trovalet Denis 
+headline: Étudiant en Master Chimie Verte - Synthèse Durable & Catalyse
+description: >- Étudiant en Master Chimie Verte à l'Université de Strasbourg (2025-2026). Passionné par les approches durables en synthèse organique, catalyse (homo/hétérogène) et valorisation de la biomasse. Expérience en TP de synthèse et détermination structurale. À la recherche d'un stage en R&D pour appliquer mes compétences en chimie verte à des projets industriels innovants. Maîtrise de l'anglais et du français pour des collaborations internationales.# dont remove this line. this will ignore all new lines until the next section
   Write an awesome intro and discuss your highlights and qualification. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -31,8 +31,8 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
+  linkedin: https://www.linkedin.com/in/denis-trovalet-452b6a285/    # https://www.linkedin.com/in/{your url slug} 
+  github: ouilascience    # https://github.com/{your url slug} 
   stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
@@ -45,40 +45,29 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Chimie Fondamentale
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
+    - Chimie Organique (synthèse et stratégies vertes)
+    - Chimie Inorganique et de Coordination
+    - Chimie Organométallique
+    - Chimie Supramoléculaire
+  - category: Chimie Fondamentale
+    tools:      
+    - Catalyse Homogène et Hétérogène
+    - Biocatalyse et Organocatalyse
+    - Valorisation de la Biomasse
+    - Approches Vertes en Synthèse Organique
+  - category: Analyse & Évaluation Environnementale
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+    - Analyse de Cycle de Vie (ACV)
+    - Évaluation des Impacts Environnementaux
+    - Droit de l'Environnement
+    - Spectroscopies pour Détermination Structurale  
+  - category: Outils Expérimentaux
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
-    tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
+    - TP de Synthèse et Chimie Physique
+    - ChemDraw, Gaussian, LateX
+    - Gestion de Projet
   - category: Problem Solving / Risk Management
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
@@ -93,7 +82,7 @@ formspree-key:   https://formspree.io/f/{8-digit key}
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
-colors: # this is the basic theme
+colors: lemon # this is the basic theme
   text: "#1a1c20"
   border: "#ddd"
   link: "#4a76ee"
